@@ -1,0 +1,1 @@
+Abstraction means that our costumers like to see our output of our project not the input I mean hiding the input from the world . 
