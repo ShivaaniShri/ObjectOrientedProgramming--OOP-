@@ -53,6 +53,8 @@ int main(){
     InheritedClassOne ObjectOne = InheritedClassOne("John",24,"Teacher",24000);
     MainClass* ObjectTwo = &ObjectOne;
     ObjectTwo->Print();
+    cout<<"Checking for promotion : "<<endl;
     ObjectTwo->CheckForPromotion();
+    cout<<"Checking for retirement : "<<endl;
     ObjectTwo->CheckForRetirement();
 }
