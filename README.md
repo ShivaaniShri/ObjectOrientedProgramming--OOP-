@@ -1,4 +1,11 @@
 # ObjectOrientedProgramming OOP
 
-This repository undergoes all the basic concepts in OOP . Like Constructor , Inheritance , Abstraction , Encapsulation and Polyphorphism . 
+OOP (Object-Oriented-Programming) is the concept dealing with class and objects 
+Types : 
+`
+1.Construction
+2.Inheritance
+3.Abstraction
+4.Polymorphism
+`
 
